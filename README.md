@@ -78,7 +78,7 @@ All users, products and sales exist only while the program is running, so the in
 
 ## Author
 
-S. Torres
+Santiago T.
 Systems Engineering student at Politécnico Grancolombiano.
 Currently learning Java and building projects while preparing to specialize in Cybersecurity.
 
