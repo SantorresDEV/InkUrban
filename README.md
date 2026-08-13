@@ -69,7 +69,7 @@ All users, products and sales exist only while the program is running, so the in
 
 ## Author
 
-Santiago Torres
+Santiago T.
 
 Systems Engineering student at Politécnico Grancolombiano.
 
