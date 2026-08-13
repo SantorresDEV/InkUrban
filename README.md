@@ -10,7 +10,7 @@ This is not a closed, one-time assignment. InkUrban is where I apply what I lear
 
 ## Screenshots
 
-Screenshots of the application are available in the [docs/images](https://github.com/SantiiagoTorresDEV/InkUrban/tree/main/docs/images) folder, including the login views, admin panel, product catalog, shopping cart, payment flow, and invoice generation.
+Screenshots of the application are available in the [docs/images](https://github.com/SantorresDEV/InkUrban/tree/main/docs/images) folder, including the login views, admin panel, product catalog, shopping cart, payment flow, and invoice generation.
 
 ---
 
