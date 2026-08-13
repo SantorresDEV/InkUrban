@@ -47,7 +47,7 @@ InkUrban
 
 1. Clone the repository.
 ```bash
-git clone https://github.com/SantiiagoTorresDEV/InkUrban.git
+git clone https://github.com/SantorresDEV/InkUrban.git
 ```
 2. Open the project in Visual Studio Code, NetBeans or any Java IDE.
 3. Build and run the application.
